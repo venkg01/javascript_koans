@@ -44,8 +44,8 @@ describe("About Objects", function () {
       }
     };
    
-    expect(currentYear).toBe(2018);
-    expect(meglomaniac.calculateAge()).toBe(48);
+    expect(currentYear).toBe(2019);
+    expect(meglomaniac.calculateAge()).toBe(49);
   });
 
   describe("'in' keyword", function () {
